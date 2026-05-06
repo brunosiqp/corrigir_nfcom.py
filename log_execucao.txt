@@ -1,0 +1,125 @@
+[ERRO] Linha 2 | ID 331270261 | XML não encontrado
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 102, in <module>
+    raise Exception("XML não encontrado")
+Exception: XML não encontrado
+
+[ERRO] Linha 21 | ID 338520498 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 27 | ID 335915798 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 48 | ID 337600143 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 52 | ID 322952065 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 55 | ID 333389388 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 72 | ID 333155227 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 75 | ID 332097262 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 83 | ID 338371934 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 87 | ID 320850239 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 96 | ID 322952064 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 102 | ID 320479740 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 107 | ID 322618870 | Namespace prefix ns0 on ide is not defined, line 4, column 11 (file:/C:/Users/bruno.siqueira/Desktop/QG's/Cstat%20318%20XML%20Fixer%20(NFCom)/v2/xml/322618870.xml, line 4)
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 106, in <module>
+    alterado = aplicar_impostos(caminho_xml, ibs, cbs, destino)
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 41, in aplicar_impostos
+    tree = etree.parse(xml_path, parser)
+  File "src/lxml/etree.pyx", line 3716, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 2044, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 2070, in lxml.etree._parseDocumentFromURL
+  File "src/lxml/parser.pxi", line 1961, in lxml.etree._parseDocFromFile
+  File "src/lxml/parser.pxi", line 1230, in lxml.etree._BaseParser._parseDocFromFile
+  File "src/lxml/parser.pxi", line 647, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 765, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 689, in lxml.etree._raiseParseError
+  File "file:/C:/Users/bruno.siqueira/Desktop/QG's/Cstat%20318%20XML%20Fixer%20(NFCom)/v2/xml/322618870.xml", line 4
+lxml.etree.XMLSyntaxError: Namespace prefix ns0 on ide is not defined, line 4, column 11
+
+[ERRO] Linha 112 | ID 321997149 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 120 | ID 337268966 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 122 | ID 331944212 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 135 | ID 322934148 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 139 | ID 338062781 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
+[ERRO] Linha 148 | ID 338031912 | IBS/CBS não encontrados
+Traceback (most recent call last):
+  File "C:\Users\bruno.siqueira\Desktop\QG's\Cstat 318 XML Fixer (NFCom)\v2\fixer.py", line 97, in <module>
+    raise Exception("IBS/CBS não encontrados")
+Exception: IBS/CBS não encontrados
+
